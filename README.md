@@ -10,11 +10,3 @@ To solve this problem, different approaches are used, some of which we will revi
 One of these methods is Model Pruning, which reduces the number of parameters by squeezing out those weights that are considered unnecessary. However, this can lead to bad results, so this method should be approached very carefully. The LoRA approach and SVD are also used for this task to reduce the size of Weight Matrix for faster model work. 
 
 These methods are discussed in more detail in the [Report](https://www.overleaf.com/read/gcxxkntmythn#be4477)
-
-## Prerequisites
-
-### Compilation
-
-### Usage
-
-### Results
